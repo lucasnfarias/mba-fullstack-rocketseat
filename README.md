@@ -22,7 +22,7 @@ Por fim, em Soft Skills do profissional Full Stack você irá desenvolver habili
 
 ### Tools
 - **Browser:** [Chrome](https://www.google.com.br/chrome/)
-- **Code Editor:** [Fronteditor](https://www.fronteditor.dev/) and [VS Code](https://code.visualstudio.com/)
+- **Code Editor:** [Fronteditor](https://www.fronteditor.dev/), [CodePen](https://codepen.io/pen/) and [VS Code](https://code.visualstudio.com/)
 - **Design & Scribbles:** [Figma](https://www.figma.com/), [tldraw](https://www.tldraw.com/) and [Whimsical](whimsical.com)
 - **Terminal:** [WSL](https://learn.microsoft.com/pt-br/windows/wsl/install) and [Bash](https://www.gnu.org/software/bash/)
 - **Docs:** [MDN](https://developer.mozilla.org/pt-BR/) and [DevDocs](https://devdocs.io/)
