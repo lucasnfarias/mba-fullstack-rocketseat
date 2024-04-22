@@ -1,4 +1,4 @@
-# MBA Full-Stack Rocketseat + Sirius
+# MBA Full-Stack [Rocketseat](https://www.rocketseat.com.br/) + [Sirius](https://landing.sirius.education/home/)
 
 No MBA Rocketseat Full-stack você irá aprender as habilidades para tornar-se um profissional capaz de desenvolver soluções completas de ponta a ponta desde o back-end, front-end web e mobile.
 
@@ -16,11 +16,15 @@ Na etapa de Desenvolvimento Mobile você irá aprender a utilizar o React Native
 
 Por fim, em Soft Skills do profissional Full Stack você irá desenvolver habilidades importantes para se destacar, trabalhar com times, ser um profissional de alta performance e construir uma carreira sólida.
 
-## [Rocketseat](https://www.rocketseat.com.br/)
+## Projects
 
-## [Sirius](https://landing.sirius.education/home/)
+### Module 01 - Web Fundamentals
+- [Cooking Recipe page](01_web_fundamentals/projects/cooking-recipe-page) - basic html and css
+- [Travelgram](01_web_fundamentals/projects/travel-page) - css display flex
+- [News Portal](01_web_fundamentals/projects/news-portal) - css display grid
+- [JS Convert](01_web_fundamentals/projects/js_convert) - basic javascript
 
-### Tools
+## Tools
 - **Browser:** [Chrome](https://www.google.com.br/chrome/)
 - **Code Editor:** [Fronteditor](https://www.fronteditor.dev/), [CodePen](https://codepen.io/pen/) and [VS Code](https://code.visualstudio.com/)
 - **Design & Scribbles:** [Figma](https://www.figma.com/), [tldraw](https://www.tldraw.com/) and [Whimsical](whimsical.com)
