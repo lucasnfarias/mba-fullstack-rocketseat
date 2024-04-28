@@ -9,3 +9,6 @@
 3. Open a second terminal
 4. Run `npm run build` to compile and bundle files to `dist` folder
 5. Run `npm run dev` to start **webpack-dev-server**
+
+### Preview
+![Hairday preview](readme-preview.png)

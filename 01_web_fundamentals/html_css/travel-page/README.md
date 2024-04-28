@@ -1,10 +1,6 @@
-# Cooking Recipe Page
-Apply basic HTML and CSS fundamentals
+# Travelgram
 
-## How to run
-Use vscode live server extension to launch a development local Server with live reload feature for static & dynamic pages. Index file on `01_web_fundamentals/projects/travel-page/index.html`
+[Figma](https://www.figma.com/file/aMfpMvhzb6AyrXUpzOu86Q/Perfil-de-viagens-(Community)?type=design&node-id=0%3A1&mode=design&t=LWkT7RyVUlc5CjRl-1)
 
-## Material & Tools
-- [Font Alice](https://fonts.google.com/specimen/Alice)
-- [Figma project](https://www.figma.com/file/aMfpMvhzb6AyrXUpzOu86Q/Perfil-de-viagens-(Community)?type=design&mode=design&t=m92Oy9wAhUba4TgM-1)
-- [VS Code Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+### Preview
+![Travelgram preview](assets/readme-preview.png)

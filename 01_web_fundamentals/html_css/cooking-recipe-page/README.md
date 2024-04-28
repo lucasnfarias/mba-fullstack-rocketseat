@@ -8,3 +8,6 @@ Use vscode live server extension to launch a development local Server with live 
 - [Font Alice](https://fonts.google.com/specimen/Alice)
 - [Figma project](https://www.figma.com/file/7M4BKqMt0jtUyPIKhDRVoM/P%C3%A1gina-de-receita-(Community)?type=design&node-id=3%3A811&mode=design&t=AGBqBFBmLjAR5VOv-1)
 - [VS Code Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+### Preview
+![Cooking recipe preview image](assets/readme-preview-image.png)
