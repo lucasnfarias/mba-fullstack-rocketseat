@@ -19,10 +19,13 @@ Por fim, em Soft Skills do profissional Full Stack você irá desenvolver habili
 ## Projects
 
 ### Module 01 - Web Fundamentals
-- [Cooking Recipe page](01_web_fundamentals/projects/cooking-recipe-page) - basic html and css
-- [Travelgram](01_web_fundamentals/projects/travel-page) - css display flex
-- [News Portal](01_web_fundamentals/projects/news-portal) - css display grid
-- [JS Convert](01_web_fundamentals/projects/js_convert) - basic javascript
+- [Cooking Recipe page](01_web_fundamentals/html_css/cooking-recipe-page) - basic html and css
+- [Travelgram](01_web_fundamentals/html_css/travel-page) - css display flex
+- [News Portal](01_web_fundamentals/html_css/news-portal) - css display grid
+- [Enroll Form](01_web_fundamentals/html_css/enroll-form) - css and html intermediate. Focus on form and input styling
+- [Convert](01_web_fundamentals/js/convert) - basic javascript
+- [Refund](01_web_fundamentals/js/refund) - intermediate javascript
+- [Hairday](01_web_fundamentals/js/hairday) - intermediate javascript, webpack and babel
 
 ## Tools
 - **Browser:** [Chrome](https://www.google.com.br/chrome/)
