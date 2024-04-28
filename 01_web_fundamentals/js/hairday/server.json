@@ -1,0 +1,29 @@
+{
+  "schedules": [
+    {
+      "id": "1714263296531",
+      "name": "Jorginho",
+      "scheduledDate": "2024-04-28T14:00:00.000Z"
+    },
+    {
+      "id": "1714263296532",
+      "name": "Cleiton Da Silva",
+      "scheduledDate": "2024-04-28T19:00:00.000Z"
+    },
+    {
+      "id": "1714265168312",
+      "name": "Testinho",
+      "scheduledDate": "2024-04-29T18:00:00.000Z"
+    },
+    {
+      "id": "1714265314925",
+      "name": "Test2",
+      "scheduledDate": "2024-04-29T13:00:00.000Z"
+    },
+    {
+      "id": "1714266101558",
+      "name": "Test III",
+      "scheduledDate": "2024-04-28T22:00:00.000Z"
+    }
+  ]
+}
