@@ -19,6 +19,7 @@ Por fim, em Soft Skills do profissional Full Stack você irá desenvolver habili
 ## Projects
 
 ### Module 01 - Web Fundamentals
+
 - [Cooking Recipe page](01_web_fundamentals/html_css/cooking-recipe-page) - basic html and css
 - [Travelgram](01_web_fundamentals/html_css/travel-page) - css display flex
 - [News Portal](01_web_fundamentals/html_css/news-portal) - css display grid
@@ -26,8 +27,10 @@ Por fim, em Soft Skills do profissional Full Stack você irá desenvolver habili
 - [Convert](01_web_fundamentals/js/convert) - basic javascript
 - [Refund](01_web_fundamentals/js/refund) - intermediate javascript
 - [Hairday](01_web_fundamentals/js/hairday) - intermediate javascript, webpack and babel
+- [Snitap](01_web_fundamentals/html_css/snitap-patins) - css and html intermediate. Focus on transitions and animations
 
 ## Tools
+
 - **Browser:** [Chrome](https://www.google.com.br/chrome/)
 - **Code Editor:** [Fronteditor](https://www.fronteditor.dev/), [CodePen](https://codepen.io/pen/) and [VS Code](https://code.visualstudio.com/)
 - **Design & Scribbles:** [Figma](https://www.figma.com/), [tldraw](https://www.tldraw.com/) and [Whimsical](whimsical.com)
