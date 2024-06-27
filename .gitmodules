@@ -1,0 +1,3 @@
+[submodule "01_web_fundamentals/final-project"]
+	path = 01_web_fundamentals/final-project
+	url = git@github.com:lucasnfarias/rocketseat-member-club.git
