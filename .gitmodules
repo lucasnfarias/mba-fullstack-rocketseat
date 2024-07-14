@@ -4,3 +4,6 @@
 [submodule "02_web_development_frontend/projects/react-vite-fundamentals"]
 	path = 02_web_development_frontend/projects/react-vite-fundamentals
 	url = git@github.com:lucasnfarias/rocketseat-ignite-feed.git
+[submodule "02_web_development_frontend/projects/ignite-timer"]
+	path = 02_web_development_frontend/projects/ignite-timer
+	url = git@github.com:lucasnfarias/rocketseat-ignite-timer.git
