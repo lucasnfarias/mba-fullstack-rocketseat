@@ -1,11 +1,11 @@
 [submodule "01_web_fundamentals/final-project"]
 	path = 01_web_fundamentals/final-project
 	url = git@github.com:lucasnfarias/rocketseat-member-club.git
-[submodule "02_web_development_frontend/projects/react-vite-fundamentals"]
+[submodule "02_web_development_frontend/projects/01-react-vite-fundamentals"]
 	path = 02_web_development_frontend/projects/01-react-vite-fundamentals
 	url = git@github.com:lucasnfarias/rocketseat-ignite-feed.git
 [submodule "02_web_development_frontend/projects/02-ignite-timer"]
-	path = 02_web_development_frontend/projects/ignite-timer
+	path = 02_web_development_frontend/projects/02-ignite-timer
 	url = git@github.com:lucasnfarias/rocketseat-ignite-timer.git
 [submodule "02_web_development_frontend/projects/03-dt-money"]
 	path = 02_web_development_frontend/projects/03-dt-money
