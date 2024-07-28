@@ -7,3 +7,6 @@
 [submodule "02_web_development_frontend/projects/02-ignite-timer"]
 	path = 02_web_development_frontend/projects/ignite-timer
 	url = git@github.com:lucasnfarias/rocketseat-ignite-timer.git
+[submodule "02_web_development_frontend/projects/03-dt-money"]
+	path = 02_web_development_frontend/projects/03-dt-money
+	url = git@github.com:lucasnfarias/rocketseat-dt-money.git
