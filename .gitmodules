@@ -10,3 +10,6 @@
 [submodule "02_web_development_frontend/projects/03-dt-money"]
 	path = 02_web_development_frontend/projects/03-dt-money
 	url = git@github.com:lucasnfarias/rocketseat-dt-money.git
+[submodule "02_web_development_frontend/projects/04-pizza-shop"]
+	path = 02_web_development_frontend/projects/04-pizza-shop
+	url = git@github.com:lucasnfarias/rocketseat-pizza-shop.git
