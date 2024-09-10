@@ -1,10 +1,8 @@
 # MBA Full-Stack [Rocketseat](https://www.rocketseat.com.br/) + [Sirius](https://landing.sirius.education/home/)
 
-No MBA Rocketseat Full-stack você irá aprender as habilidades para tornar-se um profissional capaz de desenvolver soluções completas de ponta a ponta desde o back-end, front-end web e mobile.
+No MBA Rocketseat Full-stack você irá aprender as habilidades para tornar-se um profissional capaz de desenvolver soluções completas de ponta a ponta desde o **back-end, front-end web e mobile**. Durante a sua jornada você irá aprender na prática e irá desenvolver diversos projetos desde os fundamentos até níveis mais avançados. Vamos partir dos fundamentos para oportunizar nivelamento para todos os alunos vindo de diferentes graduações. Essa estrutura garante partir da construção de um conhecimento sólido e amplo para sua formação.
 
-Durante a sua jornada você irá aprender na prática e irá desenvolver diversos projetos desde os fundamentos até níveis mais avançados. Vamos partir dos fundamentos para oportunizar nivelamento para todos os alunos vindo de diferentes graduações. Essa estrutura garante partir da construção de um conhecimento sólido e amplo para sua formação.
-
-As aulas estão organizadas em 5 etapas: Fundamentos do Desenvolvimento Web, Desenvolvimento Web Front-end, Desenvolvimento Back-end, Desenvolvimento Mobile e Soft Skills do profissional Full Stack.
+As aulas estão organizadas em **5 etapas: Fundamentos do Desenvolvimento Web, Desenvolvimento Web Front-end, Desenvolvimento Back-end, Desenvolvimento Mobile e Soft Skills do profissional Full Stack.**
 
 Na etapa de Fundamentos do Desenvolvimento Web você vai aprender na prática os fundamentos do desenvolvimento Web para ser capaz de cria qualquer aplicação para lidar com desafios do dia a dia, ganhar experiência e construir um portfólio de brilhar os olhos para se destacar no mercado.
 
@@ -28,8 +26,22 @@ Por fim, em Soft Skills do profissional Full Stack você irá desenvolver habili
 - [Refund](01_web_fundamentals/js/refund) - intermediate javascript
 - [Hairday](01_web_fundamentals/js/hairday) - intermediate javascript, webpack and babel
 - [Snitap](01_web_fundamentals/html_css/snitap-patins) - css and html intermediate. Focus on transitions and animations
+- [Member Club](https://github.com/lucasnfarias/rocketseat-member-club.git)
+  - Final project of this module
+  - Consolidate webpack, babel, json-server, HTML, CSS and JS knowledge
 
-## Tools
+### Module 02 - Web Frontend Development
+
+- [Ignite Feed](https://github.com/lucasnfarias/rocketseat-ignite-feed.git) - React Vite TS fundamentals
+- [Ignite Timer](https://github.com/lucasnfarias/rocketseat-ignite-timer.git) - React Context API, react-hook-form, react-router-dom and styled-components
+- [DT Money](https://github.com/lucasnfarias/rocketseat-dt-money.git) - React useMemo, useCallback, axios and context selectors
+- [Pizza Shop](https://github.com/lucasnfarias/rocketseat-pizza-shop.git) - Shadcn/UI, e2e tests with Playwright, React Helmet and Tailwind CSS
+- [Dev Store](https://github.com/lucasnfarias/rocketseat-devstore.git) - Server and Client components with Next.js and e2e tests with Cypress
+- [Marketplace Web](https://github.com/lucasnfarias/rocketseat-marketplace-web)
+  - Final project of this module
+  - Consolidate TS, React, Tailwind CSS, Zod, React Query knowledge and much more
+
+## Common Tools
 
 - **Browser:** [Chrome](https://www.google.com.br/chrome/)
 - **Code Editor:** [Fronteditor](https://www.fronteditor.dev/), [CodePen](https://codepen.io/pen/) and [VS Code](https://code.visualstudio.com/)
