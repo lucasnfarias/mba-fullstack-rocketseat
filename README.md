@@ -16,6 +16,8 @@ Por fim, em Soft Skills do profissional Full Stack você irá desenvolver habili
 
 ## Projects
 
+_Alguns projetos mais simples podem ser encontrados diretamente neste repositório. Outros terão os links direto para seus repositórios separadamente :)_
+
 ### Module 01 - Web Fundamentals
 
 - [Cooking Recipe page](01_web_fundamentals/html_css/cooking-recipe-page) - basic html and css
