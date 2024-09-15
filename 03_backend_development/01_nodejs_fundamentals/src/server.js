@@ -1,6 +1,7 @@
 import http from "node:http";
 import { json } from "./middlewares/json.js";
 import { routes } from "./routes.js";
+import { extractQueryParams } from "./utils/routes.js";
 
 const server = http.createServer(async (req, res) => {
   const { method, url } = req;
@@ -14,9 +15,17 @@ const server = http.createServer(async (req, res) => {
   if (route) {
     const routeParams = req.url.match(route.path)
 
-    req.params = { ...routeParams.groups }
+    const { query, ...params } = routeParams.groups
 
-    return route.handler(req, res);
+    req.params = params
+    req.query = extractQueryParams(query)
+
+    try {
+      return route.handler(req, res);
+    } catch (error) {
+      if (error.message === 'not_found') return res.writeHead(404).end()
+      return res.writeHead(500).end()
+    }
   }
 
   return res.writeHead(404).end();
