@@ -43,6 +43,10 @@ _Alguns projetos mais simples podem ser encontrados diretamente neste repositór
   - Final project of this module
   - Consolidate TS, React, Tailwind CSS, Zod, React Query knowledge and much more
 
+### Module 03 - Back-end Development
+
+- [Pure NodeJS Simple API](03_backend_development/01_nodejs_fundamentals) - a simple REST API build only with nodeJS native modules
+
 ## Common Tools
 
 - **Browser:** [Chrome](https://www.google.com.br/chrome/)
