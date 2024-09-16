@@ -45,7 +45,7 @@ _Alguns projetos mais simples podem ser encontrados diretamente neste repositór
 
 ### Module 03 - Back-end Development
 
-- [Pure NodeJS Simple API](03_backend_development/01_nodejs_fundamentals) - a simple REST API build only with nodeJS native modules
+- [Pure NodeJS Simple API](03_backend_development/01_nodejs_fundamentals) - a simple REST API built only with nodeJS native modules
 
 ## Common Tools
 
